@@ -1,3 +1,6 @@
+#include <map>
+#include <vector>
+
 long getQueueTime(std::vector<int> queue) {
 
   unsigned long time = 0;
